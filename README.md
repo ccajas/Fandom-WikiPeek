@@ -1,6 +1,8 @@
 # Wiki[a]peek
 **A small but useful script that lets you preview a linked Fandom Wikia article**
 
+![Wiki[a]peek in action](http://i.imgur.com/lHcJ4l3.png "Wiki[a]peek in action")
+
 When you browse any Fandom wiki website, a short preview will pop up as a tooltip upon hovering over links to other articles from that site. 
 It is useful for quickly understanding unfamiliar terms without navigating away from the current page.
 
